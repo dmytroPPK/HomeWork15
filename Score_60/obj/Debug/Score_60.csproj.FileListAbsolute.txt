@@ -1,0 +1,6 @@
+c:\users\dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_60\bin\Debug\Score_60.exe.config
+c:\users\dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_60\bin\Debug\Score_60.exe
+c:\users\dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_60\bin\Debug\Score_60.pdb
+c:\users\dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_60\obj\Debug\Score_60.csprojResolveAssemblyReference.cache
+c:\users\dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_60\obj\Debug\Score_60.exe
+c:\users\dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_60\obj\Debug\Score_60.pdb
