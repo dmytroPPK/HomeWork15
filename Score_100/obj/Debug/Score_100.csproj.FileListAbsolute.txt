@@ -1,0 +1,10 @@
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\bin\Debug\Score_100.exe.config
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\bin\Debug\Score_100.exe
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\bin\Debug\Score_100.pdb
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\bin\Debug\EntityFramework.dll
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\bin\Debug\EntityFramework.xml
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\obj\Debug\Score_100.csprojResolveAssemblyReference.cache
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\obj\Debug\Score_100.exe
+C:\Users\Dmytro\documents\visual studio 2015\Projects\HomeWork15\Score_100\obj\Debug\Score_100.pdb
